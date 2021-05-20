@@ -1,2 +1,2 @@
 # OyunSatisProje
- Önlisans bitirme projesi 2016
+ Önlisans bitirme projesi - 2016
