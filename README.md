@@ -1,0 +1,2 @@
+# OyunSatisProje
+ Önlisans bitirme projesi
