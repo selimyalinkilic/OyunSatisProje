@@ -1,0 +1,46 @@
+C:\Users\Oğuzhan\Desktop\OYUNSATIS\OYUNSATIS\bin\OYUNSATIS.dll
+C:\Users\Oğuzhan\Desktop\OYUNSATIS\OYUNSATIS\bin\OYUNSATIS.pdb
+C:\Users\Oğuzhan\Desktop\OYUNSATIS\OYUNSATIS\obj\Debug\OYUNSATIS.csprojResolveAssemblyReference.cache
+C:\Users\Oğuzhan\Desktop\OYUNSATIS\OYUNSATIS\obj\Debug\OYUNSATIS.dll
+C:\Users\Oğuzhan\Desktop\OYUNSATIS\OYUNSATIS\obj\Debug\OYUNSATIS.pdb
+C:\Users\Oğuzhan\Desktop\OYUNSATIS\OYUNSATIS\bin\App_Data\eticaret.accdb
+C:\Users\selim\Desktop\OYUNSATIS (2)\OYUNSATIS\OYUNSATIS\bin\App_Data\eticaret.accdb
+C:\Users\selim\Desktop\OYUNSATIS (2)\OYUNSATIS\OYUNSATIS\bin\OYUNSATIS.dll.config
+C:\Users\selim\Desktop\OYUNSATIS (2)\OYUNSATIS\OYUNSATIS\bin\OYUNSATIS.dll
+C:\Users\selim\Desktop\OYUNSATIS (2)\OYUNSATIS\OYUNSATIS\bin\OYUNSATIS.pdb
+C:\Users\selim\Desktop\OYUNSATIS (2)\OYUNSATIS\OYUNSATIS\obj\Debug\OYUNSATIS.csprojResolveAssemblyReference.cache
+C:\Users\selim\Desktop\OYUNSATIS (2)\OYUNSATIS\OYUNSATIS\obj\Debug\OYUNSATIS.dll
+C:\Users\selim\Desktop\OYUNSATIS (2)\OYUNSATIS\OYUNSATIS\obj\Debug\OYUNSATIS.pdb
+C:\Users\selim\Desktop\OYUNSATIS\OYUNSATIS\OYUNSATIS\obj\Debug\OYUNSATIS.csprojResolveAssemblyReference.cache
+C:\Users\selim\Desktop\OYUNSATIS\OYUNSATIS\OYUNSATIS\obj\Debug\OYUNSATIS.dll
+C:\Users\selim\Desktop\OYUNSATIS\OYUNSATIS\OYUNSATIS\obj\Debug\OYUNSATIS.pdb
+C:\Users\selim\Desktop\OYUNSATIS\OYUNSATIS\OYUNSATIS\bin\App_Data\eticaret.accdb
+C:\Users\selim\Desktop\OYUNSATIS\OYUNSATIS\OYUNSATIS\bin\OYUNSATIS.dll.config
+C:\Users\selim\Desktop\OYUNSATIS\OYUNSATIS\OYUNSATIS\bin\OYUNSATIS.dll
+C:\Users\selim\Desktop\OYUNSATIS\OYUNSATIS\OYUNSATIS\bin\OYUNSATIS.pdb
+C:\Users\Oğuzhan\Desktop\OYUNSATIS\OYUNSATIS\OYUNSATIS\bin\App_Data\eticaret.accdb
+C:\Users\Oğuzhan\Desktop\OYUNSATIS\OYUNSATIS\OYUNSATIS\bin\OYUNSATIS.dll
+C:\Users\Oğuzhan\Desktop\OYUNSATIS\OYUNSATIS\OYUNSATIS\bin\OYUNSATIS.pdb
+C:\Users\Oğuzhan\Desktop\OYUNSATIS\OYUNSATIS\OYUNSATIS\obj\Debug\OYUNSATIS.csprojResolveAssemblyReference.cache
+C:\Users\Oğuzhan\Desktop\OYUNSATIS\OYUNSATIS\OYUNSATIS\obj\Debug\OYUNSATIS.dll
+C:\Users\Oğuzhan\Desktop\OYUNSATIS\OYUNSATIS\OYUNSATIS\obj\Debug\OYUNSATIS.pdb
+D:\OYUNSATIS\OYUNSATIS\OYUNSATIS\bin\App_Data\eticaret.accdb
+D:\OYUNSATIS\OYUNSATIS\OYUNSATIS\bin\OYUNSATIS.dll
+D:\OYUNSATIS\OYUNSATIS\OYUNSATIS\bin\OYUNSATIS.pdb
+D:\OYUNSATIS\OYUNSATIS\OYUNSATIS\obj\Debug\OYUNSATIS.csprojResolveAssemblyReference.cache
+D:\OYUNSATIS\OYUNSATIS\OYUNSATIS\obj\Debug\OYUNSATIS.dll
+D:\OYUNSATIS\OYUNSATIS\OYUNSATIS\obj\Debug\OYUNSATIS.pdb
+C:\Users\selim\Desktop\OYUNSATIS\OYUNSATIS\OYUNSATIS\OYUNSATIS\bin\App_Data\eticaret.accdb
+C:\Users\selim\Desktop\OYUNSATIS\OYUNSATIS\OYUNSATIS\OYUNSATIS\bin\OYUNSATIS.dll.config
+C:\Users\selim\Desktop\OYUNSATIS\OYUNSATIS\OYUNSATIS\OYUNSATIS\bin\OYUNSATIS.dll
+C:\Users\selim\Desktop\OYUNSATIS\OYUNSATIS\OYUNSATIS\OYUNSATIS\bin\OYUNSATIS.pdb
+C:\Users\selim\Desktop\OYUNSATIS\OYUNSATIS\OYUNSATIS\OYUNSATIS\obj\Debug\OYUNSATIS.csprojResolveAssemblyReference.cache
+C:\Users\selim\Desktop\OYUNSATIS\OYUNSATIS\OYUNSATIS\OYUNSATIS\obj\Debug\OYUNSATIS.dll
+C:\Users\selim\Desktop\OYUNSATIS\OYUNSATIS\OYUNSATIS\OYUNSATIS\obj\Debug\OYUNSATIS.pdb
+C:\Users\selim\Desktop\OYUNSATIS\OYUNSATIS\bin\App_Data\eticaret.accdb
+C:\Users\selim\Desktop\OYUNSATIS\OYUNSATIS\bin\OYUNSATIS.dll.config
+C:\Users\selim\Desktop\OYUNSATIS\OYUNSATIS\bin\OYUNSATIS.dll
+C:\Users\selim\Desktop\OYUNSATIS\OYUNSATIS\bin\OYUNSATIS.pdb
+C:\Users\selim\Desktop\OYUNSATIS\OYUNSATIS\obj\Debug\OYUNSATIS.csprojResolveAssemblyReference.cache
+C:\Users\selim\Desktop\OYUNSATIS\OYUNSATIS\obj\Debug\OYUNSATIS.dll
+C:\Users\selim\Desktop\OYUNSATIS\OYUNSATIS\obj\Debug\OYUNSATIS.pdb

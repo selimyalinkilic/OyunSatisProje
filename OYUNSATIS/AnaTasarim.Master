@@ -1,0 +1,113 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="AnaTasarim.master.cs" Inherits="OYUNSATIS.AnaTasarim" %>
+
+<!DOCTYPE html>
+
+<html lang="tr" xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="" />
+    <meta name="author" content="" />
+    <link href="css/memenu.css" rel="stylesheet" type="text/css" media="all" />
+    <link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
+    <link href="css/bootstrap.min.css" rel="stylesheet" />
+    <link href="css/default.css" rel="stylesheet" />
+    <link href="css/font-awesome.min.css" type="text/css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form runat="server" id="form1">
+        <div class="header">
+            <div class="header-top">
+                <div class="container">
+                    <div class="search">
+                        <asp:TextBox ID="TextBox_Arama" runat="server"></asp:TextBox>
+                        <asp:Button ID="Button_Ara" runat="server" Text="Ara" OnClick="Button_Ara_Click" />
+                    </div>
+                    <div class="header-left">
+                        <ul>
+                            <li><a href="/UyeOl.aspx" id="auyeol" runat="server"><span class="glyphicon glyphicon-user"></span>Üye Ol</a></li>
+                            <li><a href="/UyeGiris.aspx" id="auyegiris" runat="server"><span class="glyphicon glyphicon-log-in"></span>Üye Girişi</a></li>
+                            <li><a href="/Uye.aspx" id="auye" runat="server"><span class="glyphicon glyphicon-user"></span>Üye</a></li>
+                            <li><a href="/Sepet.aspx"><span class="glyphicon glyphicon-shopping-cart"></span>Sepet</a></li>
+                        </ul>
+                        <div class="clearfix"></div>
+                    </div>
+                    <div class="clearfix"></div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="head-top">
+                    <div class=" h_menu4">
+                        <ul class="memenu skyblue">
+                            <li><a href="/Default.aspx">ANASAYFA</a></li>
+                            <li><a href="/Kategoriler/Aksiyon.aspx">AKSİYON</a></li>
+                            <li><a href="/Kategoriler/Macera.aspx">MACERA</a></li>
+                            <li><a href="/Kategoriler/Spor.aspx">SPOR</a></li>
+                            <li><a href="/Kategoriler/Yaris.aspx">YARIŞ</a></li>
+                            <li><a href="/Kategoriler/Fps.aspx">FPS</a></li>
+                            <li><a href="/Kategoriler/Strateji.aspx">STRATEJİ</a></li>
+                            <li><a href="/Kategoriler/Simulasyon.aspx">SİMÜLASYON</a></li>
+                            <li><a href="/Kategoriler/Rpg.aspx">RPG</a></li>
+                            <li><a href="/Kategoriler/Dovus.aspx">DÖVÜŞ</a></li>
+                            <li><a href="/Kategoriler/Korku.aspx">KORKU</a></li>
+                            <li><a href="/Kategoriler/Mmo.aspx">MMO</a></li>
+                        </ul>
+                    </div>
+                    <div class="clearfix"></div>
+                </div>
+            </div>
+        </div>
+        <br />
+        <br />
+        <div class="container">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+        <br />
+        <br />
+        <br />
+        <div class="footer">
+            <div class="container">
+                <div class="footer-top-at">
+                    <div class="col-md-4 amet-sed">
+                        <h4>Daha Fazla...</h4>
+                        <ul class="nav-bottom">
+                            <li><a href="Default.aspx">Anasayfa</a></li>
+                            <li><a href="Bakiyem.aspx">Ödeme</a></li>
+                            <li><a href="Hakkimizda.aspx">Hakkımızda</a></li>
+                            <li><a href="Iletisim.aspx">İletişim</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-md-4 amet-sed ">
+                        <h4>Bize Ulaş</h4>
+                        <p>
+                            Beylikdüzü
+                        </p>
+                        <p>İstanbul,Türkiye</p>
+                        <p>0212 658 82 39</p>
+                        <p>bilgi@oyunsatis.com</p>
+                    </div>
+                    <div class="col-md-4 amet-sed">
+                        <h4>Haberdar Ol</h4>
+                        <input type="text" value="" onfocus="this.value='';" onblur="if (this.value == '') {this.value ='';}">
+                        <input type="submit" value="Kaydet">
+                        <ul class="nav-bottom">
+                        <li> <h5><a href="/Admin/Default.aspx">Admin Girişi</a></h5> </li>
+                         </ul>
+                    </div>
+                    <div class="clearfix"></div>
+                </div>
+            </div>
+            <div class="footer-class">
+                <p>© 2015 E-Ticaret Mezuniyet Projesi  <a href="http://www.aydin.edu.tr/" target="_blank">iaü</a> </p>
+            </div>
+        </div>
+        <script src="js/jquery.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+    </form>
+</body>
+</html>
