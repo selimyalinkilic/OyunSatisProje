@@ -1,4 +1,6 @@
 # OyunSatisProje
  Önlisans bitirme projesi - 2016
 
-w/ @selimyalinkilic
+Creators : 
+[hanoguzhanakpinar](https://github.com/hanoguzakpinar)
+[selimyalinkilic](https://github.com/selimyalinkilic)
